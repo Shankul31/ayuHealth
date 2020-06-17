@@ -1,0 +1,29 @@
+.post-wp {
+  flex: 0 0 100%;
+  margin-bottom: 60px;
+}
+
+.insta-user-img {
+  width: 100%;
+  height: auto;
+}
+.post-image-wp {
+  width: 30%;
+  margin: auto;
+  text-align: left;
+}
+
+.comment-list {
+  .comment {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.comment-box {
+  border: none;
+  outline: none;
+  width: 100%;
+  border-bottom: 1px solid;
+  margin-top: 30px;
+}
